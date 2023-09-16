@@ -4,7 +4,7 @@ Por supuesto, aquí está la introducción sin la parte de otras tecnologías:
 
 # Pokédex con React y PokeAPI
 
-![Pokedex](pokedex-image.png)
+![Pokedex]([pokedex-image.png](https://cdn.worldvectorlogo.com/logos/pokemon-23.svg))
 
 Bienvenido a la Pokédex construida con React y alimentada por la poderosa API de PokeAPI. Esta aplicación te permitirá explorar y obtener información detallada sobre tus Pokémon favoritos.
 
