@@ -1,8 +1,28 @@
-# React + Vite
+Por supuesto, aquí está la introducción sin la parte de otras tecnologías:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# Pokédex con React y PokeAPI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Pokedex](pokedex-image.png)
+
+Bienvenido a la Pokédex construida con React y alimentada por la poderosa API de PokeAPI. Esta aplicación te permitirá explorar y obtener información detallada sobre tus Pokémon favoritos.
+
+## Características Destacadas
+
+- **Búsqueda Avanzada:** Encuentra rápidamente a tus Pokémon favoritos por nombre, tipo o generación.
+- **Detalles Completos:** Accede a información detallada sobre las estadísticas, habilidades y evoluciones de cada Pokémon.
+- **Interfaz Intuitiva:** Una interfaz de usuario amigable que hace que explorar el mundo Pokémon sea una experiencia emocionante.
+
+## Comenzando
+
+Para comenzar a explorar el mundo de los Pokémon, sigue estas sencillas instrucciones:
+
+1. **Clona el Repositorio:** `git clone https://github.com/tu-usuario/pokedex.git`
+2. **Instala las Dependencias:** `npm install` o `yarn install`
+3. **Inicia la Aplicación:** `npm run dev` o `yarn dev`
+4. **Abre tu Navegador:** Navega a `http://localhost:3000` y comienza a explorar.
+
+¡Esperamos que disfrutes de la experiencia de la Pokédex y que encuentres a tus Pokémon favoritos!
+
+---
