@@ -1,18 +1,18 @@
-Por supuesto, aquí está la introducción sin la parte de otras tecnologías:
+
 
 ---
 
 # Pokédex con React y PokeAPI
 
-![Pokedex]([pokedex-image.png](https://cdn.worldvectorlogo.com/logos/pokemon-23.svg))
+![Pokedex](https://cdn.worldvectorlogo.com/logos/pokemon-23.svg)
 
-Bienvenido a la Pokédex construida con React y alimentada por la poderosa API de PokeAPI. Esta aplicación te permitirá explorar y obtener información detallada sobre tus Pokémon favoritos.
+Bienvenido a este proyecto de una Pokédex construida con React y alimentada por la API de PokeAPI. Esta aplicación te permitirá explorar y obtener información detallada sobre tus Pokémon favoritos.
 
 ## Características Destacadas
 
-- **Búsqueda Avanzada:** Encuentra rápidamente a tus Pokémon favoritos por nombre, tipo o generación.
+- **Búsqueda Avanzada:** Encuentra rápidamente a tus Pokémon favoritos por nombre o tipo.
 - **Detalles Completos:** Accede a información detallada sobre las estadísticas, habilidades y evoluciones de cada Pokémon.
-- **Interfaz Intuitiva:** Una interfaz de usuario amigable que hace que explorar el mundo Pokémon sea una experiencia emocionante.
+- **Interfaz Intuitiva:** Una interfaz de usuario amigable diseñada con React y CSS.
 
 ## Comenzando
 
@@ -23,6 +23,6 @@ Para comenzar a explorar el mundo de los Pokémon, sigue estas sencillas instruc
 3. **Inicia la Aplicación:** `npm run dev` o `yarn dev`
 4. **Abre tu Navegador:** Navega a `http://localhost:3000` y comienza a explorar.
 
-¡Esperamos que disfrutes de la experiencia de la Pokédex y que encuentres a tus Pokémon favoritos!
+¡Espero que te guste mi Pokédex y que encuentres a tus Pokémon favoritos!
 
 ---
